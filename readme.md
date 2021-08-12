@@ -11,6 +11,6 @@
 | ILBS          | 2,074,000| 432    |  428  | 423   | 421   |  418  | 415 |
 | ALBSL         | 2,074,000| 425    |  415  | 390   |  385  |  383  | 373 |
 | GLBSL         |   775,000| 418    |  411  | 396   |
-| SLBBL         | 3,416,121| 550    | 
+| SLBBL         | 3,416,121| 550    | WOW
 
 Contact me @ [LinkedIn](https://www.linkedin.com/in/suman-shresth)
